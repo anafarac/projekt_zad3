@@ -44,7 +44,7 @@ img, video {
 
 @font-face {
     font-family: 'anafarac';
-    src: url('dok/anafarac.ttf') format('truetype');
+    src: url('anafarac.ttf') format('truetype');
 }
 .poseban {
     font-family: 'anafarac', sans-serif;
